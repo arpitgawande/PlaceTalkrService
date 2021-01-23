@@ -1,7 +1,7 @@
 package com.placetalkr.prototype.dto;
 
 /**
- * DTO to hold authntication request data
+ * DTO to hold authentication request data
  */
 public class AuthRequest {
     private String username;

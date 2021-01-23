@@ -13,6 +13,7 @@ public class Place {
     private String shortDescription;
     //Define place type
     private String type;
+    //Below are the address fields
     private String country;
     private String state;
     private String city;

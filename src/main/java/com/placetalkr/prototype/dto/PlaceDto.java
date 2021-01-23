@@ -28,12 +28,6 @@ public class PlaceDto {
     private String status;
     private Integer rating;
 
-    public PlaceDto(String id, String name, String shortDescription) {
-        this.id = id;
-        this.name = name;
-        this.shortDescription = shortDescription;
-    }
-
     public String getId() {
         return id;
     }
